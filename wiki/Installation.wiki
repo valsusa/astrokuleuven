@@ -14,12 +14,12 @@ and download the Eclipse IDE for Java Developers for your system. Follow the ins
 
 ==Creating the Java-Parsek project==
 
-# Select new projects from the menu or click on the first icon to the left in the upper icon bar. Click: new Java project.
-# A window comes up to create a new project. You have to enter:
-# project name (suggeste JavaParsek)
-# select create from existing project
-# Browse to the folder where you put the files downloads
-# Click finish
+ # Select new projects from the menu or click on the first icon to the left in the upper icon bar. Click: new Java project.
+ # A window comes up to create a new project. You have to enter:
+ # project name (suggeste JavaParsek)
+ # select create from existing project
+ # Browse to the folder where you put the files downloads
+ # Click finish
 
 The project is created and it has inside the files needed.
 
