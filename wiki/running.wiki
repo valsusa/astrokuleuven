@@ -1,0 +1,30 @@
+#running the code
+
+= Introduction =
+
+The physical problem is the following. We consider beams of particles moving with respect to each other. 
+
+We consider two cases:
+
+ # A system made of hydrogen gas ionized. The nuclei of the hydrogen weigh 1836 times more than the electrons. We consider them motionless: their time of response is so much slower than the electrons as to make this assumption valid for our scope. The electrons are themselves divided into two populations drifting with respect to each other. We select a frame of reference where the two beams have equal but opposite velocity. 
+
+ # A system made of electrons and positrons (no hydrogen is considered her) drifting relative to each other. The frame is again chosen so that the velocity is equal but opposite for the two species.
+
+= Parameters for the simulation =
+
+# The system size and the number of cells in which it is divided. They are set in the class *GridCart1D.java* (in java, classes are the names of the files containing the program): 
+
+ * BoxLength = 20* 10*Math.PI; sets the box size
+
+ * NumOfGridPoints = 128* 10; sets the number of cells it is divided into
+
+# The beam properties are selected in the class *Maxwellian.java*
+
+* RELATIVISTIC = false; decides whether to use Newtonian (false) or relativistic (true) mechanics
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
