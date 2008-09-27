@@ -7,9 +7,9 @@ The pachake includes the following classes:
  # GridCart1D 
  # Maxwellian 
  # Output 
- # RelParsek 
- # RelSpecies 
- # SimulationStep 
+ # RelParsek
+ # RelSpecies
+ # SimulationStep
  # Solver 
  # Timer  
 
