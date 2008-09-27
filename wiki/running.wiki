@@ -14,9 +14,9 @@ We consider two cases:
 
 # The system size and the number of cells in which it is divided. They are set in the class *GridCart1D.java* (in java, classes are the names of the files containing the program): 
 
- * BoxLength = 20* 10*Math.PI; sets the box size
+ * BoxLength = 20*Math.PI; sets the box size
 
- * NumOfGridPoints = 128* 10; sets the number of cells it is divided into
+ * NumOfGridPoints = 128; sets the number of cells it is divided into
 
 # The beam properties are selected in the class *Maxwellian.java*
 
