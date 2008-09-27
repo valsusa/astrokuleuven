@@ -22,9 +22,6 @@ We consider two cases:
 
 * RELATIVISTIC = false; decides whether to use Newtonian (false) or relativistic (true) mechanics
 
-= Details =
+* MeanBeamVelocity = .9; Velocity of the beams (normalized to the speed of light)
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+* VT = 0.001; thermal spread of the beams (normalized to the speed of light)
