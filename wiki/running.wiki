@@ -20,8 +20,20 @@ We consider two cases:
 
 # The beam properties are selected in the class *Maxwellian.java*
 
-* RELATIVISTIC = false; decides whether to use Newtonian (false) or relativistic (true) mechanics
+ * RELATIVISTIC = false; decides whether to use Newtonian (false) or relativistic (true) mechanics
 
-* MeanBeamVelocity = .9; Velocity of the beams (normalized to the speed of light)
+ * MeanBeamVelocity = .9; Velocity of the beams (normalized to the speed of light)
 
-* VT = 0.001; thermal spread of the beams (normalized to the speed of light)
+ * VT = 0.001; thermal spread of the beams (normalized to the speed of light)
+
+# Other parameters of the simulations are chosen in *RelSpecies.java*
+
+ * NumberOfParticles = 10000; Number of total particles in the beams
+
+ * mode=1; harmonic perturbation number 
+ 
+ * Perturbation = .01*mode; amplitude of the perturbation
+
+ * dt = 1E-2; time step
+
+ * tfin = 200; total duration of the simulation in normalized units.
