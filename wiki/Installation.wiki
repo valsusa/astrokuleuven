@@ -29,4 +29,4 @@ The project is created and it has inside the files needed.
 
 Go on the left panel (called Package Explorer) and click on JavaParsek. The files will appear. You can now directly modify the files and save them. 
 
-To run the code, go with the mouse on RelParsek.java and right click. A menu appears. From that choose: Run as...Java application. The code now runs.
+To run the code, go with the mouse on RelParsek.java and right click. A menu appears. From that choose: Run as...Java application. The code now runs. At subsequent times, you can just run the code by clicking on the green icon on the top bar, with a white arrow inside.
