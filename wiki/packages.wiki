@@ -6,7 +6,7 @@ The pachake includes the following classes:
  # ESfield 
  # GridCart1D 
  # Maxwellian 
- # Output 
+ # Output
  # RelParsek
  # RelSpecies
  # SimulationStep
