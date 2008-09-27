@@ -1,0 +1,16 @@
+#summary of the package
+
+The pachake includes the following classes:
+
+ # Bessel 
+ # ESfield 
+ # GridCart1D 
+ # Maxwellian 
+ # Output 
+ # RelParsek 
+ # RelSpecies 
+ # SimulationStep 
+ # Solver 
+ # Timer  
+
+A web site with the details of the packages is included in the installation, in the directory doc. Just click on index.html under the doc folder.
