@@ -4,6 +4,10 @@ Intallation instrusctions.
 
 == Java ==
 
+Most likely any computer already has it. Otherwise, install it following the instructions on the Sun web site: 
+
+http://java.sun.com/
+
 == Eclipse ==
 
 Go to:
