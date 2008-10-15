@@ -37,3 +37,14 @@ We consider two cases:
  * dt = 1E-2; time step
 
  * tfin = 200; total duration of the simulation in normalized units.
+
+= Electron electron vs electron positron =
+
+For electron/electron, use:
+private static final double Background = 1;
+private static final boolean positron = false;
+
+
+For electron/positron, use:
+private static final double Background = 0;
+private static final boolean positron = true;
