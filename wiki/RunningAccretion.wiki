@@ -19,5 +19,5 @@ In file *pilot.f90*:
 
 In file *griglia.f90*:
 
- * d%npc Number of particles to form a grid of particles in each cell. For example if set to 4 there will be 16 particles per cell
- * d%nxc Number of cells
+ * d%npc Number of particles to form a grid of particles in each cell. For example if set to 4 there will be 16 particles per cell. Total number of particles cannot exceed 2 million (set in moduli.f90).
+ * d%nxc Number of cells per direction, MAX ALLOWED, 150 (set in moduli.f90)
