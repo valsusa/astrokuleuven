@@ -1,0 +1,18 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Description of how to run the codes to study accretion disks:
+ * Grav
+
+
+= Details =
+
+==Parameters to control==
+
+In file pilot.f90
+
+ * dt
+ * ncycles  Control it by modifying 
+
+ do counter=1,10000
