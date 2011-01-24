@@ -6,14 +6,16 @@ Description of how to run the codes to study accretion disks:
  * Grav
 
 =Installation=
-Dowwnload it from the right menu, it is called grav.tar.gz
+This assumes you use a mac or a linux that has gfortran installed.
+
+Download it from the right menu, it is called grav.tar.gz
 After downloading it, untar it with command:
  tar xvf grav.tar.gz
 The go to the directory 
  grav
 created in the untar process.
 
-= Details =
+= Details=
 
 ==Parameters to control==
 
@@ -38,3 +40,10 @@ followed by
 ==Runnin==
 Type: 
  xcel
+
+=Graphics=
+Graphics is done in octave after the code ends running
+
+Two ocatve files are provided
+* legge.m does plots and a movie of the density
+* legge_aprt.m does plots and a movie of the particle distribution
