@@ -5,6 +5,13 @@
 Description of how to run the codes to study accretion disks:
  * Grav
 
+=Installation=
+Dowwnload it from the right menu, it is called grav.tar.gz
+After downloading it, untar it with command:
+ tar xvf grav.tar.gz
+The go to the directory 
+ grav
+created in the untar process.
 
 = Details =
 
