@@ -1,0 +1,9 @@
+The first step is to read about:
+
+1) Formation of Earth-like planets: http://adsabs.harvard.edu/abs/1980ARA&A..18...77W
+
+2) Study the gravitational collapse via the Jeans instability:
+http://meghnad.iucaa.ernet.in/~dipankar/ph217/jeans.pdf
+
+3) Study the tree algorithm due to Barnes and Hut:
+http://www.ecs.umass.edu/~mettu/ece665/barnes_86.pdf
